@@ -48,4 +48,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vnvrkarthik1&theme=highcontrast" alt="vnvrkarthik1" /></p>
 
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
+
