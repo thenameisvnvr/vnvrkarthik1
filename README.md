@@ -1,6 +1,7 @@
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
+<img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM0NTY0NTgsIm5iZiI6MTcxMzQ1NjE1OCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDE4VDE2MDIzOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE1NjU3YzM4ZWIxNWUzOTQ2MDAzYjU5NTcyYjg1OTRjYzViMDM3MzllYjg2MzlmNDM3YzM0NjViYjk4NGZlYzYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Amn0F5Mc2huZRalkfPCZLJUjxCenbA1sCrSanaALcbk">
 
 <h1 align="center">Hi , I'm VNVR KARTHIK</h1>
+
 <h3 align="center">A passionate Web3 developer from India 🇮🇳</h3>
 
 
@@ -17,7 +18,7 @@
 - 🏢 The project did for my College faculty [Faculty Forms](srgecforms.netlify.app)
 
 - ☘️ My python Project: [Hand Mouse](https://github.com/vnvrkarthik1/fingerMouse)
-<img src ="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right">
+<img src ="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right" width="400">
 
 - 👨‍💻 My LinkedIn Profile [https://in.linkedin.com/in/%E1%90%81%CE%BD%E1%90%81%EA%AD%B1-%EA%AE%B6%E1%90%83%EA%AD%B1%CD%B3%EA%AE%8B%EA%AE%96%EA%AE%B6-vnvr-karthik-8864a0255](https://in.linkedin.com/in/%E1%90%81%CE%BD%E1%90%81%EA%AD%B1-%EA%AE%B6%E1%90%83%EA%AD%B1%CD%B3%EA%AE%8B%EA%AE%96%EA%AE%B6-vnvr-karthik-8864a0255)
 
@@ -54,4 +55,4 @@
 
 
 ‌<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" align="center">
-
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000">
