@@ -1,5 +1,8 @@
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
+
 <h1 align="center">Hi , I'm VNVR KARTHIK</h1>
 <h3 align="center">A passionate Web3 developer from India 🇮🇳</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vnvrkarthik1&label=Profile%20views&color=0e75b6&style=flat" alt="vnvrkarthik1" /> </p>
 
@@ -14,12 +17,14 @@
 - 🏢 The project did for my College faculty [Faculty Forms](srgecforms.netlify.app)
 
 - ☘️ My python Project: [Hand Mouse](https://github.com/vnvrkarthik1/fingerMouse)
+<img src ="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right">
 
 - 👨‍💻 My LinkedIn Profile [https://in.linkedin.com/in/%E1%90%81%CE%BD%E1%90%81%EA%AD%B1-%EA%AE%B6%E1%90%83%EA%AD%B1%CD%B3%EA%AE%8B%EA%AE%96%EA%AE%B6-vnvr-karthik-8864a0255](https://in.linkedin.com/in/%E1%90%81%CE%BD%E1%90%81%EA%AD%B1-%EA%AE%B6%E1%90%83%EA%AD%B1%CD%B3%EA%AE%8B%EA%AE%96%EA%AE%B6-vnvr-karthik-8864a0255)
 
 - 📝 I regularly read Google articles on [news.google.co.in](news.google.co.in)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, jQuery, python, data analysis, data visualisation, technical news..**
+
 
 - 📫 How to reach me **vnvrkarthik@gmail.com**
 
@@ -48,4 +53,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vnvrkarthik1&theme=highcontrast" alt="vnvrkarthik1" /></p>
 
 
+‌<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" align="center">
 
