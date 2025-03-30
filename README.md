@@ -20,7 +20,7 @@
 - 🐍 My python Project: [Hand Mouse](https://github.com/thenameisvnvr/fingerMouse)
 <img src ="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right" width="400">
 
-- 👨‍💻 My LinkedIn Profile [[https://in.linkedin.com/in/%E1%90%81%CE%BD%E1%90%81%EA%AD%B1-%EA%AE%B6%E1%90%83%EA%AD%B1%CD%B3%EA%AE%8B%EA%AE%96%EA%AE%B6-vnvr-karthik-8864a0255](https://in.linkedin.com/in/vnvrkarthik)](https://in.linkedin.com/in/vnvrkarthik)
+- 👨‍💻 My LinkedIn Profile [https://in.linkedin.com/in/vnvrkarthik](https://in.linkedin.com/in/vnvrkarthik)](https://in.linkedin.com/in/vnvrkarthik)
 
 - 📝 I regularly read Google articles on [news.google.co.in](news.google.co.in)
 
